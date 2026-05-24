@@ -1,0 +1,340 @@
+
+ 
+Logo du site
+Recherche
+Présentation
+Tutoriels
+Tutoriels
+ Utilisation de iPackEPS
+ Connexion à iPackEPS via votre portail ARENA
+Pour tous les utilisateurs (enseignants, chefs d’établissement, IA-IPR…), l’accès à iPackEPS se fait via le portail ARENA. nouveau portail arena (2025) accès : [structures et personnels]
+
+ En cas d’impossibilité d’accéder à iPackEPS…
+document complet à destination des IA IPR EPS / DSI
+Si vous ne parvenez pas à accéder à iPackEPS, consultez les propositions de solution ci-dessous :
+Problème 1 : "Je ne vois pas le lien (…)
+
+ Logique d’utilisation de iPackEPS en lien avec CollègeEPS
+ Page d’accueil des modules
+Présentation de la page d’accueil de iPackEPS module Professeur
+
+ Sélection de votre établissement
+[Accueil] Sélection de votre établissement. QUESTIONS/RÉPONSES Question 1 : "J’arrive bien à accéder à iPackEPS - Professeur, mais mon établissement n’apparaît pas (aucun établissement proposé, (…)
+
+ Choix de l’année scolaire
+[Accueil] Présentation de la fonctionnalité de choix d’année scolaire
+
+ Tableau de bord iPackEPS
+Présentation de l’ergonomie des tableaux de bord d’iPackEPS
+
+ Les manipulations requises à chaque nouvelle année scolaire
+à Chaque nouvelle année scolaire, iPackEPS procède à un archivage et nettoyage des données. Vous devez chaque année compléter les informations existantes, pour la nouvelle année en cours. Ce (…)
+
+ [Établissement] Configuration de la Fiche Établissement
+Accès à cette fonctionnalité : Tableau de bord => Établissement
+Questions / Réponses Question Les informations de contact (nom du chef et / ou nom de l’adjoint) ne sont pas bonnes, un (…)
+
+ [Fiche Professeur] Renseigner sa Fiche Professeur
+Accès à cette fonctionnalité : Tableau de bord => Fiche Professeur
+Questions / Réponses Question Je suis spécialiste d’une activité qui n’est pas référencée dans la liste d’APSA prédéfinie, (…)
+
+ [Dossiers]/[DossierEPS]/[Projets] Dépôt des projets et Configuration des Axes des Projets (Établissement, EPS, AS, SSS)
+Accès à cette fonctionnalité :
+Tableau de bord => Les Dossier et Projets ==> Les Projets Question / Réponses Q1 : pourquoi ne puis-je pas déposer mon Projet de SSS ou Projet de Classe (…)
+
+ [Dossiers]/[DossierEPS]/[Équipe EPS] Gestion de l’Équipe EPS
+Accès à cette fonctionnalité :
+Tableau de bord => Les Dossiers et Projets ==> Dossier EPS ==> Éguipe EPS
+La liste des enseignants de l’équipe EPS est extraite directement des bases du rectorat (…)
+
+ [Dossiers]/[DossierEPS]/[Classes] Configuration des Classes et Import des Élèves
+Accès à cette fonctionnalité :
+Tableau de bord => Dossiers => Dossier EPS => Classes Question / Réponses Q1 : Une alerte m’informe que je ne suis pas coordonnateur EPS, je ne peux pas (…)
+
+ [Dossiers]/[DossierEPS]/[APSAs] Déclaration des APSAs
+Accès à cette fonctionnalité :
+Tableau de bord => Les Projets et Dossiers ==> Dossier EPS ==> APSA
+Questions/Réponses Question 1 J’ai créé manuellement une APSA [musculation adaptée] (…)
+
+ [Dossiers]/[DossierEPS]/[Périodes] Configuration des Périodes des Séquences d’Apprentissage
+Accès à cette fonctionnalité :
+Tableau de bord => Dossiers => Dossier EPS => Périodes
+
+ [Dossiers]/[DossierEPS]/[Groupes] Configuration des Groupes (EPS, AS, SSS…)
+Accès à cette fonctionnalité :
+Interface Professeur et Chef Établissement :
+Tableau de bord => Dossiers => Dossier EPS ==> Groupes
+iPackEPS permet de déclarer des groupes de type
+– [EPS] (…)
+
+ [Dossiers]/[DossierEPS]/[Groupes] Gestion Spécifique de l’Enseignement de Spécialité (groupes EPPCS)
+Accès à cette fonctionnalité : Interface Professeur et Chef Établissement : Tableau de bord => Dossiers => Dossier EPS ==> Groupes
+La gestion de l’EPPCS est particulière, puisque cet (…)
+
+ [Dossiers]/[DossierEPS]/[Élèves] Placement des Élèves dans les Groupes (AS, SSS, classe mélangées…)
+Accès à cette fonctionnalité : Tableau de bord => Dossiers => Dossier EPS => Élèves
+Note : depuis la version 2025 il est possible de récupérer d’un clic les élèves de Pronote / École Directe (…)
+
+ [Dossiers]/[DossierEPS]/[Élèves] Import d’élèves depuis Pronote / École-Directe
+Accès à cette fonctionnalité :
+Tableau de bord => Dossiers => Dossier EPS => Élèves
+Si vous avez déjà placé vos élèves dans des groupes sur Pronote / École Directe (Menus de Terminale, groupe (…)
+
+ [Dossiers]/[DossierEPS]/[Équipements] Gestion des Équipements Sportifs
+Accès à cette fonctionnalité : Tableau de bord => Dossier EPS ==> Équipements Sportifs
+Présentation globale du module de gestion des équipements sportifs
+Déclarer et Configurer les (…)
+
+ [Dossiers]/[DossierEPS]/[EDT] Saisie des Emplois du Temps
+Accès à cette fonctionnalité :
+Tableau de bord => Dossiers ==> Dossier EPS ==> Emplois du Temps IntroductionCréation Suppression de CréneauxCas particulier des saisies de créneaux en Semaine A (…)
+
+ [Dossiers]/[Dossier Certificatif]/[Protocoles] Dossier Certificatif : Configuration des Protocoles des Épreuves certificatives (dates rattrapage, co-évaluation)
+Accès à cette fonctionnalité :Retour ligne automatique
+Tableau de bord => Dossiers et Projets => Dossier Certificatif ==> Protocoles d’évaluation
+Questions/Réponses Question 1 En Bac (…)
+
+ [Dossiers]/[Dossier Certificatif]/[Référentiels] Remontée des Référentiels d’Évaluation voie Générale, Technologique et Professionnelle
+Accès à cette fonctionnalité :
+Tableau de bord => Dossiers et Projets => Dossier Certificatif ==> Référentiels
+NOTE : les documents téléchargés (document modèle, votre projet…) s’ouvrent dans (…)
+
+ [Dossiers]/[Dossier Certificatif]/[Dépôt des documents pour la commission] Dépôt des documents pour la commission académique d’harmonisation des notes aux Examens d’EPS
+Accès à la fonctionnalité :
+interface Professeur ou chef d’Établissement :
+module : [Dossiers]/[Dossier Certificatif]/[Dépôt des documents pour la commission]
+Les tutoriels ci-dessous vous (…)
+
+ [Dossiers]/[Dossier Certificatif]/[Dépôt des documents CAHPN] : dépôt de la Fiche Établissement
+Accès à la fonctionnalité : interface Professeur ou chef d’Établissement : module : [Dossiers]/[Dossier Certificatif]/[Dépôt des documents pour la commission]
+Note : Selon votre académie, le (…)
+
+ [Dossiers]/[Dossier Certificatif]/[Dépôt des documents CAHPN] Dépôt des fiches Individuelles
+Accès à la fonctionnalité : interface Professeur ou chef d’Établissement : module : [Dossiers]/[Dossier Certificatif]/[Dépôt des documents pour la commission]
+Il est possible que votre (…)
+
+ [Dossiers]/[Dossier Certificatif]/[Dépôt des documents CAHPN] Contrôle des Certificats Médicaux
+Accès à la fonctionnalité : interface Professeur ou chef d’Établissement : module : [Dossiers]/[Dossier Certificatif]/[Dépôt des documents pour la commission]
+Pour le dépôt / contrôle des (…)
+
+ [Dossiers] Proposer le Dossier EPS ou Dossier Certificatif à la Commission Académique
+Accès à cette fonctionnalité :
+Tableau de bord
+ou Tableau de bord => Dossiers et Projets => Dossier EPS
+ou Tableau de bord => Dossiers et Projets => Dossier Certificatif Question / Réponses (…)
+
+ [Dossiers]/[Dossier Natation]/[ASNS] gestion des validations d’ASNS : Import et Impression
+Accès à cette fonctionnalité : Tableau de bord => Dossiers => Dossier Natation => ASNS
+Note : pour valider manuellement l’ASNS pour vos élèves, passez par le menu [tableau de Bord ==> [Mes (…)
+
+ [Dossiers]/[Dossier Natation]/[Enquête] Saisie de l’Enquête Natation
+Accès à cette fonctionnalité :
+Tableau de bord => Dossiers => Dossier Natation => Enquête
+Une fois l’enquête complétée, elle devra être validée par le chef d’établissement via son interface. (…)
+
+ [Dossiers]/[Dossier Natation]/Statistiques] Accès aux Statistiques Dossier Natation
+Accès à cette fonctionnalité :
+Tableau de bord => Dossiers => Dossier Natation => Statistiques
+iPackEPS vous permet de consulter de consulter les statistiques des saisies de l’enquête Dossier (…)
+
+ [Dossiers]/[Dossier SSS] Gestion des Sections Sportives Scolaires
+Accès à cette fonctionnalité :
+Tableau de bord => Dossiers => Dossier SSS
+Présentation de la Gestion des Sections Sportives Scolaires
+
+ [Dossiers]/[dossier SSS]/[ouverture] demande d’ouverture de Section Sportive Scolaire
+Accès à cette fonctionnalité :
+Tableau de bord => Les Dossiers et Projets ==> Dossier Section Sportive Scolaire ==> Demande d’ouverture SSS
+NOTE : voici les informations minimales qui doivent (…)
+
+ [Dossiers]/[Dossier SSS]/[Projet] Saisie du Projet Annuel de Section Sportive Scolaire
+Accès à cette fonctionnalité :
+Tableau de bord => Les Dossiers et Projets ==> Dossier Section Sportive Scolaire ==> Projet Annuel
+NOTE : les documents téléchargés (document modèle, votre (…)
+
+ [Dossiers]/[Dossier SSS]/[Bilan] Saisie du Bilan Annuel de Section Sportive Scolaire
+Accès à cette fonctionnalité : Tableau de bord => Les Dossiers et Projets ==> Dossier Section Sportive Scolaire ==> Bilan
+NOTE : les documents téléchargés (document modèle, votre projet…) (…)
+
+ [Dossiers]/[Dossier SSS]/[Évolution] Demande de Reconduction ou Fermeture d’une SSS
+Accès à cette fonctionnalité : Tableau de bord => Les Dossiers et Projets ==> Dossier Section Sportive Scolaire ==> Évolution
+Chaque année vous pouvez demander une demande de Fermeture ou de (…)
+
+ [Dossiers]/[Dossier APPN] Dépôt de Demande de Validation de Projet APPN à Environnement Spécifique
+Accès à cette fonctionnalité : Tableau de bord => Dossiers => Dossier APPN
+NOTE : les documents téléchargés (document modèle, votre projet…) s’ouvrent dans un nouvel onglet : il est possible que (…)
+
+ [Dossiers]/[Dossier Sports-Études] Configuration des Classes Sports-Études
+accès à la fonctionnalité :
+Dossiers]/[Dossier Sports-Études]
+
+ [Mes Élèves]/[Visualisation] Visualisation des informations élèves (parcours scolaire, savoir-nager, dispenses)
+Accès à cette fonctionnalité : Tableau de bord => Mes Élèves => Visualisation
+Onglets : [Généralités], [Scolarité], [APSA]
+Onglet [Savoir-Nager] la gestion spécifique de l’onglet (…)
+
+ [Mes Élèves]/[Visualisation]/[ASNS] Validation et Impression de l’ASNS
+Accès à cette fonctionnalité :
+Tableau de bord => Mes Élèves => Visualisation ==> onglet Savoir Nager
+NOTE : pour l’import des attestations déjà saisies sur CollègeEPS, et l’impression en (…)
+
+ [Mes Élèves]/[Visualisation][Inaptitudes] : déclaration des inaptitudes des élèves
+Accès à cette fonctionnalité :
+Tableau de bord => Mes Élèves => Visualisation
+Onglet [Inaptitudes]
+
+ [Mes Élèves]/[Inaptitudes] Liste des élèves déclarés inaptes dans votre établissement
+Accès à la fonctionnalité : interface Professeur ou chef d’Établissement : module : [Mes Élèves]/[Inaptitudes]
+Retrouvez sur cette page les certificats médicaux présentés pour les inaptitudes (…)
+
+ [MesDocuments]/[Documents] Enregistrement et Impression de documents
+Accès à cette fonctionnalité : Tableau de bord => Mes Documents => Documents
+iPackEPS permet d’éditer, imprimer et stocker divers documents, notamment des bordereaux de présence ou des (…)
+
+ [MesDocuments]/[Documents] / [Programmation] : Impression des EDT individuels de chaque élève
+Accès à cette fonctionnalité :
+Tableau de bord => Mes Documents => Documents Administratifs => Programmation
+
+ [MesDocuments]/[Documents] / [Dossards] : Gestion (filtrer, numéroter, imprimer) des dossards de Cross
+Accès à cette fonctionnalité : Tableau de bord => Mes Documents => Documents => Dossards
+Tutoriel 1 : Sélection, Filtres, numérotation et Impression des dossards
+Tutoriel 2 : Transférer la (…)
+
+ [MesDocuments]/[Publipostage] Édition et Diffusion de Publipostages
+Accès à cette fonctionnalité : Tableau de bord => Mes Documents => Publipostage
+la fonction de publipostage permet d’éditer des documents modèle, contenant des balises spécifiques permettant (…)
+
+ [MesDocuments]/[Bibliothèque] Accès à la Bibliothèque de Documents d’iPackEPS
+Accès à la fonctionnalité
+[Mes Documents]/[Bibliothèque]
+
+ [Matériel] Gestion du Matériel EPI (Équipements de Protection Individuels)
+Accès à cette fonctionnalité : Tableau de bord => Matériel
+Lorsque vous programmez l’activité Escalade dans votre établissement, vous êtes tenus de tenir à jour un Registre EPI. IpackEPS vous (…)
+
+ [Offre de Formation] / [Groupes et APSAs]
+Accès à cette fonctionnalité : Tableau de bord => Offre de Formation ==> Groupes et APSAs
+Cet article vous montre comment repérer les divers groupes (AS, SSS, option) de l’académie, et faire (…)
+
+ [Statistiques]/[Inaptitudes] Les statistiques sur les inaptitudes dans votre établissement
+Accés à la fonctionnalité
+[statistiques et Offre de Formation] / [Statistiques Inaptitudes]
+
+ [Outils]/[Export Fichier Elèves vers d’autres logiciels]
+Accès à la fonctionnalité :
+interface Professeur :
+module : [Outils]/[Export Fichier Elèves vers d’autres logiciels]
+iPackEPS vous permet d’exporter la liste des élèves de vos divers groupes (…)
+
+ Interface chef d’établissement : description de l’interface complète
+ce tutoriel présente le détail des modules accessibles au chef d’établissement, et les validations nécessaires demandées (validation des projets de Section Sportive Scolaire, de l’enquête (…)
+
+
+ Interface iPackEPS / Cyclades
+ [Doc complet - Partie 1] Les étapes nécessaires pour que vos données iPackEPS soient transférées vers Cyclades
+Ce document vous présente toutes les étapes nécessaires à suivre sur iPackEPS, pour vous permettre d’éviter toute double-saisie avec Cylades / Santorin.
+Si ces étapes sont suivies, lorsque vous (…)
+
+ [Doc complet - Partie 2] Les saisies sur Cyclades / Santorin
+Ce document vous présente toutes les étapes nécessaires à suivre sur Cyclades / Santorin.
+Il faudra évidemment au préalable avoir saisi toutes les étapes préalables nécessaires sur iPackEPS (cf. (…)
+
+ [Dossiers]/[Dossier Certificatif]/[Cyclades] : Exporter les Groupes et Élèves vers Cyclades
+Accès à cette fonctionnalité :
+Tableau de bord => Les Projets et Dossiers ==> Dossier Certificatif ==> Cyclades
+Cet article présente à la fois la fonctionnalité de création du fichier des (…)
+
+ Connexion à l’interface Cyclades
+Accès à cette fonctionnalité : Arena => Examens et concours ==> Imag’in - accès individuel ==> EPS - Gestion des épreuves EPS
+Cet article présente la procédure d’accès à Cyclades pour un (…)
+
+ Cyclades - Vérification de l’affectation des élèves à leurs protocoles
+Accès à cette fonctionnalité :
+Cyclades : [EPS] / [Associer les élèves à un protocole]
+NOTE : Si vous n’avez pas importé vos Groupes/Élèves en amont de cette étape, tous vos élèves (…)
+
+ [SANTORIN] créer des missions d’évaluation pour chaque enseignant
+Ce module est accessible via le portail Chef d’Établissement.
+Accès à la fonctionnalité depuis l’interface Cyclades :
+[EPS] / [Accéder à Imag’In - convoquer les enseignants]
+Pour pouvoir (…)
+
+ Cyclades - Contrôler/Réaffecter les protocoles des enseignants
+Accès à la fonctionnalité :
+[EPS] / [Contrôler / Réaffecter des protocoles]
+Cette étape est nécessaire dans les cas suivants : le chef d’établissement ou un enseignant a créé les protocoles (…)
+
+ Cyclades - Créer en cours d’année sur Cyclades un nouveau protocole (ou affecter un élève sur un protocole particulier (adapté) en cours d’année)
+Ce module est accessible via le portail Cyclades Chef d’Établissement ou Enseignant
+Accès à la fonctionnalité :
+[EPS] / [Créer un protocole]
+Les protocoles créés sur iPackEPS sont envoyés (…)
+
+ Santorin - Distribution des Lots de Correction
+Ce module est accessible via le portail Santorin - Chef d’Établissement (ou Professeur EPS référent Santorin)
+Accès à la fonctionnalité : [Distribution]
+La première étape sur le module Santorin (…)
+
+ Santorin - déplacer des éleves d’un lot de correction à un autre lot
+Ce module est accessible via le portail Santorin - Chef Établissement (ou Professeur EPS référent Santorin)
+Accès via la fonctionnalité : [Distribution]
+Santorin permet de déplacer des élèves (…)
+
+ Santorin - Accès à l’interface Santorin pour les Enseignants EPS
+Accès à cette fonctionnalité : Arena => Examens et concours ==> Imag’in - accès individuel ==> accès aux missions
+Dans cette vidéo vous trouverez la procédure d’accès à l’interface SANTORIN, via (…)
+
+ Santorin - Saisie des Notes
+Ce module est accessible via le portail Santorin - Professeur, ou Réferent Établissement.
+La saisie des notes se fait élève par élève, en renseignant la répartition de points pour chaque AFL ou (…)
+
+ Cyclades / Santorin : Gestion des élèves de Haut Niveau (SHN)
+Si des élèves sont inscrits en haut niveau dans votre établissement, ils peuvent bénéficier d’une évaluation particulière.
+Pour cela, vous devrez créer (sur iPackEPS ou directement sur Cyclades) (…)
+
+ gérer un élève arrivé en cours d’année dans l’établissement
+Si un élève arrive tardivement dans votre établissement, une série de manipulations sera nécessarie pour pouvoir saisir ses notes. Certaines procédures seront à effecture par le chef établissement (…)
+
+ [Santorin] - Attribuer un 2° correcteur sur un lot de correction
+Ce module est accessible via le portail Santorin - Chef Établissement.
+Dans des cas particuliers où un enseignant ne pourrait pas saisir ses notes, le chef d’établissement (ou le référente (…)
+
+ [santorin] : gestion des [cas exceptionnels] (évaluation sur une seule ou 2 apsas)
+Des élèves sont considérés en évaluation [Cas Exceptionnel], lorsqu’ils n’ont pas pu être évalués sur une ou plusieurs apsas. Il ne s’agit pas d’inaptitude médicale, mais de situations externes (…)
+
+ Dernières vérifications : S’assurer que tous les élèves présents sur Cyclades et Santorin ont bien été affectés à un protocole / lot de correction
+Avant le verrouillage des lots de correction, il convient de s’assurer qu’il ne reste plus un seul élève en attente d’attribution de protocole sur Santorin, et que tous les élèves ont bien été (…)
+
+ Santorin - Chef d’Établissement - Export du fichier de notes
+Ce module est accessible via le portail Santorin - Chef d’Établissement Accès via la fonctionnalité : [Statistiques]
+pour extraire le fichier de notes à partir de Santorin, suivez le tutoriel (…)
+
+ Santorin : Extraire la liste des inaptes / dispensés
+Ce module est accessible via le portail Santorin - Chef d’Établissement Accès via la fonctionnalité : [Statistiques]
+Santorin ne propose pas encore une extracton automatique des listes des (…)
+
+ Santorin - Consulter les statistiques
+Cet article vous décrit les accès aux statistiques sinmplifiées de notation sur l’interface professeur, et aux statistiques détaillées sur l’interface chef d’établissement.
+si un enseignant est (…)
+
+ Verrouiller / déverrouiller les lots de notation après saisie des notes
+Ce module est accessible via le portail Santorin - Enseignant Accès via la fonctionnalité : [Corrections]
+lorsque toutes les notes ont été saisies, chaque enseignant doit [verrouiller] chacun de (…)
+
+
+Agenda
+ 14 / 08 / 2025
+Ouverture iPackEPS 2025-2026
+
+ 01 / 11 / 2025
+nouvelle version 2025.3.1
+
+Présentation
+Tutoriels
+ Utilisation de iPackEPS
+ Interface iPackEPS / Cyclades
+Secrétaire de rédaction :
+webmestre
+Hébergement :
+Rectorat Créteil
+Rectorat Créteil
