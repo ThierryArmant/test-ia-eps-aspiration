@@ -1,1 +1,5 @@
-en cours
+.streamlit/
+.env
+__pycache__/
+*.pyc
+data_aspirations/*.txt
